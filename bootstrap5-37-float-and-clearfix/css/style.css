@@ -1,0 +1,18 @@
+.caixa {
+    border: 1px solid #000;
+    padding: 6px;
+    margin: 6px;
+    color: #ffffff;
+}
+
+.clear_fix {
+    clear: both;
+}
+
+#div-float-l {
+    float: left;
+}
+
+#div-float-r {
+    float: right;
+}
