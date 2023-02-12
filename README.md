@@ -1,4 +1,4 @@
-# jQuery3
+# Bootstrap
 ![NPM](https://img.shields.io/npm/l/react)
 # Introdução
 
