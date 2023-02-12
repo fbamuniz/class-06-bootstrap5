@@ -2,7 +2,7 @@
 ![NPM](https://img.shields.io/npm/l/react)
 # Introdução
 
-Originalmente criado por um designer e um desenvolvedor no Twitter, o Bootstrap se tornou um dos mais populares frameworks front-end e projetos de código aberto no mundo. O Bootstrap foi criado no Twitter em meados de 2010 por Mark Otto e Jacó Thornton. Antes de ser uma estrutura de código aberto, o Bootstrap era conhecido como Twitter Blueprint. Após alguns meses de desenvolvimento, o Twitter realizou sua primeira Hack Week e o projeto explodiu à medida que os desenvolvedores de todos os níveis evoluíram sem nenhuma orientação externa. Ele serviu como guia de estilo para o desenvolvimento de ferramentas internas na empresa, por mais de um ano até ter o seu lançamento público, e continua a fazê-lo até hoje.
+Originalmente criado por um designer e um desenvolvedor no Twitter, o Bootstrap se tornou um dos mais populares frameworks front-end e projetos de código aberto no mundo. O Bootstrap foi criado em meados de 2010 por [Mark Otto](https://pt.wikipedia.org/wiki/Bootstrap_(framework_front-end)) e [Jacó Thornton](https://pt.wikipedia.org/wiki/Bootstrap_(framework_front-end)). Antes de ser uma estrutura de código aberto, o Bootstrap era conhecido como Twitter Blueprint. Após alguns meses de desenvolvimento, o Twitter realizou sua primeira Hack Week e o projeto explodiu à medida que os desenvolvedores de todos os níveis evoluíram sem nenhuma orientação externa. Ele serviu como guia de estilo para o desenvolvimento de ferramentas internas na empresa, por mais de um ano até ter o seu lançamento público, e continua a fazê-lo até hoje.
 
 Lançado originalmente em 19 de agosto de 2011, O Bootstrap já recebeu mais de vinte atualizações, incluindo dois grandes reescritos com v2 e v3. Com o Bootstrap 2, foi adicionado funcionalidades responsivas a toda a estrutura como uma folha de estilo opcional. Já o Bootstrap teve a sua biblioteca reescrita para torná-la responsiva por padrão, atendendo as necesidades de dispositivos móveis.
 
@@ -39,7 +39,7 @@ Abaixo, um exemplo de uma estrutura básica HTML, com botões escritos com class
 </html>
 ```
 
-Com o Bootstrap 4, mais uma vez o projeto foi reescrito para levar em conta duas alterações arquiteturais importantes: uma migração para o SASS e a mudança para o flexbox do CSS. O objetivo do Bootstrap é ajudar a comunidade de desenvolvimento Web a seguir pelo caminho das novas propriedades do CSS, com menos dependências e novas tecnologias em navegadores mais modernos.
+Com o Bootstrap 4, mais uma vez o projeto foi reescrito para levar em conta duas alterações arquiteturais importantes: uma migração para o SASS e a mudança para o flexbox do CSS. O objetivo do Bootstrap é ajudar a comunidade de desenvolvimento Web a seguir pelo caminho das novas propriedades do CSS, com menos dependências e novas tecnologias em navegadores mais modernos. Atualmente o Bootstrap encontra-se na versão 5.
 
 No vídeo abaixo do Rodolfo Mori, é apresentado um pequeno resumo do que é o Bootstrap e sua aplicabilidade. 
 
@@ -51,23 +51,30 @@ No vídeo abaixo do Rodolfo Mori, é apresentado um pequeno resumo do que é o B
 - O que é Bootstrap. Kenzie, disponível em: [https://kenzie.com.br](https://kenzie.com.br/blog/bootstrap/). Acesso em: 28 de jan. de 2023.
 
 # Como executar
+## Como executar
 
-## Front end Web
 Pré-requisitos: 
 - Visual Studio Code
 - GIT
 
 ```bash
 # clonar repositório
-git clone https://github.com/fbamuniz/class-04-jquery3.git
+git clone https://github.com/fbamuniz/class-05-bootstrap.git
 
 ```
 
-## Bibliografia das aulas
-
+## Bibliografia Básica 
+- MEYER, E. S. CSS - técnicas profissionais para um layout moderno. Porto Alegre: Bookman, 2011.
+- POWERS, S. Aprendendo JavaScript. São Paulo: Novatec, 2010.
+- PETRUCELLI, E. E. HTML5, CSS e JavaScript. Brasília: NT Editora, 2019.
 - DUCKETT, J. HTML e CSS: Projete e Construa Websites. Rio de Janeiro: Alta Books. 2016.
-- MEYER, E. S. CSS – técnicas profissionais para um layout moderno. Porto Alegre: Bookman, 2011.
+- SILVERMAN, R.E. Git: Guia prático. São Paulo: Novatec, 2019.
+- GRINBERG, M. Desenvolvimento web com Flask: Desenvolvendo aplicações web com Python. São Paulo: Novatec, 2019.
 
+## Bibliografia Complementar:
+- GOMES, A. L. XHTML/CSS: criação de páginas web (Informática). São Paulo: Editora Senac, 2019.
+- QUIERELLI, D. A. Criando sites com HTML-CSS-PHP: Construindo um projeto - Iniciante. Joinville: Clube dos Autores, 2012.
+- TITTEL, E., NOBLE, J. HTML, XHTML e CSS Para Leigos. Rio de Janeiro: Alta Books, 2014
 
 # Autor
 
