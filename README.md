@@ -41,7 +41,7 @@ Abaixo, um exemplo de uma estrutura básica HTML, com botões escritos com class
 
 Com o Bootstrap 4, mais uma vez o projeto foi reescrito para levar em conta duas alterações arquiteturais importantes: uma migração para o SASS e a mudança para o flexbox do CSS. O objetivo do Bootstrap é ajudar a comunidade de desenvolvimento Web a seguir pelo caminho das novas propriedades do CSS, com menos dependências e novas tecnologias em navegadores mais modernos.
 
-No vídeo abaixo do Rodolfo Mori, é apresentado um pequeno resumo do que é o jQuery e sua aplicabilidade. 
+No vídeo abaixo do Rodolfo Mori, é apresentado um pequeno resumo do que é o Bootstrap e sua aplicabilidade. 
 
 [![Assista ao vídeo](https://img.youtube.com/vi/pvf9jX_Ej28/maxresdefault.jpg)](https://www.youtube.com/watch?v=pvf9jX_Ej28)
 
