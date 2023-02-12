@@ -59,7 +59,7 @@ Pré-requisitos:
 
 ```bash
 # clonar repositório
-git clone https://github.com/fbamuniz/class-05-bootstrap.git
+git clone https://github.com/fbamuniz/class-06-bootstrap.git
 
 ```
 
