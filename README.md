@@ -6,6 +6,35 @@ Originalmente criado por um designer e um desenvolvedor no Twitter, o Bootstrap 
 
 Lançado originalmente em 19 de agosto de 2011, O Bootstrap já recebeu mais de vinte atualizações, incluindo dois grandes reescritos com v2 e v3. Com o Bootstrap 2, foi adicionado funcionalidades responsivas a toda a estrutura como uma folha de estilo opcional. Já o Bootstrap teve a sua biblioteca reescrita para torná-la responsiva por padrão, atendendo as necesidades de dispositivos móveis.
 
+Abaixo, um exemplo de uma estrutura básica HTML, com botões escritos com classes Bootstrap.
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">    
+    <title>Bootstrap</title>
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="container-fluid col bg-white m-3 p-3">
+            <button type="button" class="btn">Normal</button>
+            <button type="button" class="btn btn-primary">Primário</button>
+            <button type="button" class="btn btn-secondary">Secundário</button>
+            <button type="button" class="btn btn-success">Sucesso</button>
+            <button type="button" class="btn btn-info">Informação</button>
+        </div>
+    </div>  
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+</body>
+</html>
+```
+
 Com o Bootstrap 4, mais uma vez o projeto foi reescrito para levar em conta duas alterações arquiteturais importantes: uma migração para o SASS e a mudança para o flexbox do CSS. O objetivo do Bootstrap é ajudar a comunidade de desenvolvimento Web a seguir pelo caminho das novas propriedades do CSS, com menos dependências e novas tecnologias em navegadores mais modernos.
 
 No vídeo abaixo da Rodolfo Mori, é apresentado um pequeno resumo do que é o jQuery e sua aplicabilidade. 
